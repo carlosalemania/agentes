@@ -17,14 +17,16 @@ Cada agente incluye:
 
 ---
 
-## 🎯 Agentes Implementados (25/75)
+## 🎯 Agentes Implementados (30/75)
 
-### Frontend (5)
+### Frontend (7)
 - ✅ **01 - CSS Master** - Arquitectura CSS, BEM, performance, dark mode
 - ✅ **02 - HTML Semantic Expert** - HTML5 semántico, ARIA, SEO, accesibilidad
 - ✅ **03 - JavaScript Performance Optimizer** - Code splitting, Web Vitals, bundle optimization
 - ✅ **04 - React/Vue/Angular Specialist** - Frameworks modernos, hooks, state management
 - ✅ **05 - Responsive Design Expert** - Mobile-first, fluid typography, breakpoints
+- ✅ **06 - TypeScript Expert** - Type system, generics, utility types, type guards
+- ✅ **10 - Webpack/Vite Optimizer** - Bundle optimization, code splitting, tree shaking
 
 ### Backend (4)
 - ✅ **07 - API Design Expert** - REST, GraphQL, versioning, pagination
@@ -36,8 +38,9 @@ Cada agente incluye:
 - ✅ **18 - Clean Code Enforcer** - SOLID, DRY, KISS, refactoring patterns
 - ✅ **20 - Naming Convention Specialist** - camelCase, PascalCase, conventions
 
-### Performance (1)
+### Performance (2)
 - ✅ **23 - Memory Leak Detector** - Event listeners, closures, React cleanup
+- ✅ **25 - Redis/Cache Expert** - Caching patterns, distributed locks, rate limiting
 
 ### Testing (2)
 - ✅ **27 - Unit Test Generator** - Jest, Vitest, pytest, GoogleTest, mocking
@@ -46,7 +49,9 @@ Cada agente incluye:
 ### Security (1)
 - ✅ **32 - Security Audit Expert** - OWASP Top 10, SQL Injection, XSS, CSRF
 
-### DevOps (1)
+### DevOps (3)
+- ✅ **35 - Docker Container Expert** - Multi-stage builds, image optimization, security
+- ✅ **36 - Kubernetes Specialist** - Deployments, Services, Ingress, HPA
 - ✅ **37 - CI/CD Pipeline Designer** - GitHub Actions, GitLab CI, Jenkins
 
 ### C++ (1)
@@ -119,26 +124,24 @@ cat frontend/01-css-master/checklist.md
 
 ---
 
-## 🎓 Roadmap (50 agentes pendientes)
+## 🎓 Roadmap (45 agentes pendientes)
 
 Próximos agentes en desarrollo:
-- TypeScript Expert
-- Webpack/Vite Optimizer
-- Kubernetes Specialist
-- Docker Container Expert
 - AWS Cloud Architect
-- Redis/Cache Expert
 - Message Queue Architect
-- Y 43 más...
+- Microservices Architect
+- API Gateway Specialist
+- OAuth/JWT Security Expert
+- Y 40 más...
 
 ---
 
 ## 📊 Estadísticas
 
-- **Total agentes:** 25/75 (33.3%)
-- **Total archivos:** 125
+- **Total agentes:** 30/75 (40.0%)
+- **Total archivos:** 150
 - **Categorías:** 11/17
-- **Líneas de código/docs:** ~14,000
+- **Líneas de código/docs:** ~15,000
 
 ---
 
