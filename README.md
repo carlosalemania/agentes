@@ -17,7 +17,7 @@ Cada agente incluye:
 
 ---
 
-## 🎯 Agentes Implementados (35/75)
+## 🎯 Agentes Implementados (40/75)
 
 ### Frontend (7)
 - ✅ **01 - CSS Master** - Arquitectura CSS, BEM, performance, dark mode
@@ -28,13 +28,15 @@ Cada agente incluye:
 - ✅ **06 - TypeScript Expert** - Type system, generics, utility types, type guards
 - ✅ **10 - Webpack/Vite Optimizer** - Bundle optimization, code splitting, tree shaking
 
-### Backend (6)
+### Backend (8)
 - ✅ **07 - API Design Expert** - REST, GraphQL, versioning, pagination
 - ✅ **08 - Database Schema Designer** - SQL, NoSQL, normalización, indexing
 - ✅ **09 - SQL Query Optimizer** - EXPLAIN, indexes, N+1 queries, performance
 - ✅ **11 - GraphQL Schema Designer** - Schema design, DataLoader, resolvers
 - ✅ **12 - Microservices Architect** - Circuit breaker, saga, service mesh, distributed tracing
 - ✅ **13 - API Gateway Specialist** - Kong, NGINX, rate limiting, authentication
+- ✅ **14 - Serverless Architect** - AWS Lambda, API Gateway, SAM, Step Functions
+- ✅ **15 - Database Migration Specialist** - Flyway, Alembic, zero-downtime, expand-contract
 
 ### Code Quality (2)
 - ✅ **18 - Clean Code Enforcer** - SOLID, DRY, KISS, refactoring patterns
@@ -44,18 +46,20 @@ Cada agente incluye:
 - ✅ **23 - Memory Leak Detector** - Event listeners, closures, React cleanup
 - ✅ **25 - Redis/Cache Expert** - Caching patterns, distributed locks, rate limiting
 
-### Testing (2)
+### Testing (3)
 - ✅ **27 - Unit Test Generator** - Jest, Vitest, pytest, GoogleTest, mocking
 - ✅ **28 - E2E Test Expert** - Playwright, Cypress, Page Object Model
+- ✅ **29 - Load Testing Expert** - k6, JMeter, Locust, performance benchmarking
 
 ### Security (2)
 - ✅ **32 - Security Audit Expert** - OWASP Top 10, SQL Injection, XSS, CSRF
 - ✅ **33 - OAuth/JWT Security Expert** - OAuth 2.0, JWT, PKCE, refresh tokens
 
-### DevOps (3)
+### DevOps (4)
 - ✅ **35 - Docker Container Expert** - Multi-stage builds, image optimization, security
 - ✅ **36 - Kubernetes Specialist** - Deployments, Services, Ingress, HPA
 - ✅ **37 - CI/CD Pipeline Designer** - GitHub Actions, GitLab CI, Jenkins
+- ✅ **39 - Monitoring/Observability Specialist** - Prometheus, Grafana, Jaeger, distributed tracing
 
 ### C++ (1)
 - ✅ **39 - Modern C++ Expert** - C++11/14/17/20/23, RAII, smart pointers
@@ -83,8 +87,9 @@ Cada agente incluye:
 ### Infrastructure (1)
 - ✅ **38 - AWS Cloud Architect** - CloudFormation, EC2, Lambda, VPC, RDS, S3
 
-### Integration (1)
+### Integration (2)
 - ✅ **40 - Message Queue Architect** - RabbitMQ, Kafka, SQS, event-driven patterns
+- ✅ **41 - WebSocket/Real-time Expert** - Socket.IO, WebSocket, SSE, real-time sync
 
 ---
 
@@ -133,24 +138,24 @@ cat frontend/01-css-master/checklist.md
 
 ---
 
-## 🎓 Roadmap (40 agentes pendientes)
+## 🎓 Roadmap (35 agentes pendientes)
 
 Próximos agentes en desarrollo:
-- WebSocket/Real-time Expert
-- Serverless Architect
-- Monitoring/Observability Specialist
-- Load Testing Expert
-- Database Migration Specialist
-- Y 35 más...
+- Error Handling Expert
+- Logging Best Practices
+- Configuration Management
+- Async/Concurrency Expert
+- Performance Profiling Specialist
+- Y 30 más...
 
 ---
 
 ## 📊 Estadísticas
 
-- **Total agentes:** 35/75 (46.7%)
-- **Total archivos:** 175
+- **Total agentes:** 40/75 (53.3%)
+- **Total archivos:** 200
 - **Categorías:** 13/17
-- **Líneas de código/docs:** ~18,000
+- **Líneas de código/docs:** ~21,000
 
 ---
 
