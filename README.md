@@ -17,16 +17,20 @@ Cada agente incluye:
 
 ---
 
-## 🎯 Agentes Implementados (20/75)
+## 🎯 Agentes Implementados (25/75)
 
-### Frontend (3)
+### Frontend (5)
 - ✅ **01 - CSS Master** - Arquitectura CSS, BEM, performance, dark mode
 - ✅ **02 - HTML Semantic Expert** - HTML5 semántico, ARIA, SEO, accesibilidad
+- ✅ **03 - JavaScript Performance Optimizer** - Code splitting, Web Vitals, bundle optimization
 - ✅ **04 - React/Vue/Angular Specialist** - Frameworks modernos, hooks, state management
+- ✅ **05 - Responsive Design Expert** - Mobile-first, fluid typography, breakpoints
 
-### Backend (2)
+### Backend (4)
 - ✅ **07 - API Design Expert** - REST, GraphQL, versioning, pagination
 - ✅ **08 - Database Schema Designer** - SQL, NoSQL, normalización, indexing
+- ✅ **09 - SQL Query Optimizer** - EXPLAIN, indexes, N+1 queries, performance
+- ✅ **11 - GraphQL Schema Designer** - Schema design, DataLoader, resolvers
 
 ### Code Quality (2)
 - ✅ **18 - Clean Code Enforcer** - SOLID, DRY, KISS, refactoring patterns
@@ -35,8 +39,9 @@ Cada agente incluye:
 ### Performance (1)
 - ✅ **23 - Memory Leak Detector** - Event listeners, closures, React cleanup
 
-### Testing (1)
+### Testing (2)
 - ✅ **27 - Unit Test Generator** - Jest, Vitest, pytest, GoogleTest, mocking
+- ✅ **28 - E2E Test Expert** - Playwright, Cypress, Page Object Model
 
 ### Security (1)
 - ✅ **32 - Security Audit Expert** - OWASP Top 10, SQL Injection, XSS, CSRF
@@ -114,26 +119,26 @@ cat frontend/01-css-master/checklist.md
 
 ---
 
-## 🎓 Roadmap (55 agentes pendientes)
+## 🎓 Roadmap (50 agentes pendientes)
 
 Próximos agentes en desarrollo:
-- JavaScript Performance Optimizer
-- Responsive Design Expert
-- SQL Query Optimizer
-- GraphQL Schema Designer
+- TypeScript Expert
+- Webpack/Vite Optimizer
 - Kubernetes Specialist
 - Docker Container Expert
 - AWS Cloud Architect
-- Y 48 más...
+- Redis/Cache Expert
+- Message Queue Architect
+- Y 43 más...
 
 ---
 
 ## 📊 Estadísticas
 
-- **Total agentes:** 20/75 (26.7%)
-- **Total archivos:** 100
-- **Categorías:** 10/17
-- **Líneas de código/docs:** ~12,000
+- **Total agentes:** 25/75 (33.3%)
+- **Total archivos:** 125
+- **Categorías:** 11/17
+- **Líneas de código/docs:** ~14,000
 
 ---
 
