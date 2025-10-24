@@ -17,7 +17,7 @@ Cada agente incluye:
 
 ---
 
-## 🎯 Agentes Implementados (30/75)
+## 🎯 Agentes Implementados (35/75)
 
 ### Frontend (7)
 - ✅ **01 - CSS Master** - Arquitectura CSS, BEM, performance, dark mode
@@ -28,11 +28,13 @@ Cada agente incluye:
 - ✅ **06 - TypeScript Expert** - Type system, generics, utility types, type guards
 - ✅ **10 - Webpack/Vite Optimizer** - Bundle optimization, code splitting, tree shaking
 
-### Backend (4)
+### Backend (6)
 - ✅ **07 - API Design Expert** - REST, GraphQL, versioning, pagination
 - ✅ **08 - Database Schema Designer** - SQL, NoSQL, normalización, indexing
 - ✅ **09 - SQL Query Optimizer** - EXPLAIN, indexes, N+1 queries, performance
 - ✅ **11 - GraphQL Schema Designer** - Schema design, DataLoader, resolvers
+- ✅ **12 - Microservices Architect** - Circuit breaker, saga, service mesh, distributed tracing
+- ✅ **13 - API Gateway Specialist** - Kong, NGINX, rate limiting, authentication
 
 ### Code Quality (2)
 - ✅ **18 - Clean Code Enforcer** - SOLID, DRY, KISS, refactoring patterns
@@ -46,8 +48,9 @@ Cada agente incluye:
 - ✅ **27 - Unit Test Generator** - Jest, Vitest, pytest, GoogleTest, mocking
 - ✅ **28 - E2E Test Expert** - Playwright, Cypress, Page Object Model
 
-### Security (1)
+### Security (2)
 - ✅ **32 - Security Audit Expert** - OWASP Top 10, SQL Injection, XSS, CSRF
+- ✅ **33 - OAuth/JWT Security Expert** - OAuth 2.0, JWT, PKCE, refresh tokens
 
 ### DevOps (3)
 - ✅ **35 - Docker Container Expert** - Multi-stage builds, image optimization, security
@@ -76,6 +79,12 @@ Cada agente incluye:
 
 ### AI Specialized (1)
 - ✅ **74 - NLP Specialist** - Transformers, BERT, GPT, Hugging Face
+
+### Infrastructure (1)
+- ✅ **38 - AWS Cloud Architect** - CloudFormation, EC2, Lambda, VPC, RDS, S3
+
+### Integration (1)
+- ✅ **40 - Message Queue Architect** - RabbitMQ, Kafka, SQS, event-driven patterns
 
 ---
 
@@ -124,24 +133,24 @@ cat frontend/01-css-master/checklist.md
 
 ---
 
-## 🎓 Roadmap (45 agentes pendientes)
+## 🎓 Roadmap (40 agentes pendientes)
 
 Próximos agentes en desarrollo:
-- AWS Cloud Architect
-- Message Queue Architect
-- Microservices Architect
-- API Gateway Specialist
-- OAuth/JWT Security Expert
-- Y 40 más...
+- WebSocket/Real-time Expert
+- Serverless Architect
+- Monitoring/Observability Specialist
+- Load Testing Expert
+- Database Migration Specialist
+- Y 35 más...
 
 ---
 
 ## 📊 Estadísticas
 
-- **Total agentes:** 30/75 (40.0%)
-- **Total archivos:** 150
-- **Categorías:** 11/17
-- **Líneas de código/docs:** ~15,000
+- **Total agentes:** 35/75 (46.7%)
+- **Total archivos:** 175
+- **Categorías:** 13/17
+- **Líneas de código/docs:** ~18,000
 
 ---
 
