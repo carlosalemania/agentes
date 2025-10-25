@@ -17,7 +17,7 @@ Cada agente incluye:
 
 ---
 
-## 🎯 Agentes Implementados (40/75)
+## 🎯 Agentes Implementados (45/75)
 
 ### Frontend (7)
 - ✅ **01 - CSS Master** - Arquitectura CSS, BEM, performance, dark mode
@@ -38,9 +38,15 @@ Cada agente incluye:
 - ✅ **14 - Serverless Architect** - AWS Lambda, API Gateway, SAM, Step Functions
 - ✅ **15 - Database Migration Specialist** - Flyway, Alembic, zero-downtime, expand-contract
 
-### Code Quality (2)
+### Code Quality (7)
 - ✅ **18 - Clean Code Enforcer** - SOLID, DRY, KISS, refactoring patterns
+- ✅ **19 - Error Handling Expert** - Exception handling, error boundaries, retry strategies
 - ✅ **20 - Naming Convention Specialist** - camelCase, PascalCase, conventions
+- ✅ **21 - Logging Best Practices** - Structured logging, correlation IDs, log aggregation
+- ✅ **22 - Configuration Management** - Environment variables, secrets management, feature flags
+- ✅ **23 - Async/Concurrency Expert** - Promises, async/await, concurrency control, parallelism
+- ✅ **24 - Performance Profiling** - CPU profiling, memory profiling, benchmarking, flame graphs
+- ✅ **25 - Rate Limiting Expert** - Rate limiting algorithms, circuit breakers, DDoS protection
 
 ### Performance (2)
 - ✅ **23 - Memory Leak Detector** - Event listeners, closures, React cleanup
@@ -138,24 +144,24 @@ cat frontend/01-css-master/checklist.md
 
 ---
 
-## 🎓 Roadmap (35 agentes pendientes)
+## 🎓 Roadmap (30 agentes pendientes)
 
 Próximos agentes en desarrollo:
-- Error Handling Expert
-- Logging Best Practices
-- Configuration Management
-- Async/Concurrency Expert
-- Performance Profiling Specialist
-- Y 30 más...
+- API Versioning Expert
+- Metrics & Instrumentation
+- Service Mesh Specialist
+- Event Sourcing Architect
+- CQRS Pattern Expert
+- Y 25 más...
 
 ---
 
 ## 📊 Estadísticas
 
-- **Total agentes:** 40/75 (53.3%)
-- **Total archivos:** 200
+- **Total agentes:** 45/75 (60.0%)
+- **Total archivos:** 225
 - **Categorías:** 13/17
-- **Líneas de código/docs:** ~21,000
+- **Líneas de código/docs:** ~25,000
 
 ---
 
