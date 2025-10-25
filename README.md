@@ -17,7 +17,7 @@ Cada agente incluye:
 
 ---
 
-## 🎯 Agentes Implementados (64/75)
+## 🎯 Agentes Implementados (69/75)
 
 ### Frontend (7)
 - ✅ **01 - CSS Master** - Arquitectura CSS, BEM, performance, dark mode
@@ -28,7 +28,7 @@ Cada agente incluye:
 - ✅ **06 - TypeScript Expert** - Type system, generics, utility types, type guards
 - ✅ **10 - Webpack/Vite Optimizer** - Bundle optimization, code splitting, tree shaking
 
-### Backend (18)
+### Backend (21)
 - ✅ **07 - API Design Expert** - REST, GraphQL, versioning, pagination
 - ✅ **08 - Database Schema Designer** - SQL, NoSQL, normalización, indexing
 - ✅ **09 - SQL Query Optimizer** - EXPLAIN, indexes, N+1 queries, performance
@@ -47,6 +47,9 @@ Cada agente incluye:
 - ✅ **52 - Search/Elasticsearch Expert** - Full-text search, aggregations, fuzzy matching, autocomplete
 - ✅ **56 - Mobile Backend Expert** - Push notifications, deep linking, offline sync, app versioning
 - ✅ **57 - Geolocation Services Expert** - Geospatial queries, proximity search, geocoding, geofencing
+- ✅ **58 - Email Service Expert** - Transactional emails, templates, SMTP, deliverability, webhooks
+- ✅ **60 - SMS Gateway Specialist** - OTP verification, 2FA, Twilio, AWS SNS, delivery tracking
+- ✅ **61 - Payment Gateway Integration** - Stripe, PayPal, subscriptions, webhooks, PCI compliance
 
 ### Code Quality (9)
 - ✅ **16 - Code Review Expert** - PR reviews, constructive feedback, security review, quality gates
@@ -112,11 +115,13 @@ Cada agente incluye:
 ### Infrastructure (1)
 - ✅ **38 - AWS Cloud Architect** - CloudFormation, EC2, Lambda, VPC, RDS, S3
 
-### Integration (4)
+### Integration (6)
 - ✅ **40 - Message Queue Architect** - RabbitMQ, Kafka, SQS, event-driven patterns
 - ✅ **41 - WebSocket/Real-time Expert** - Socket.IO, WebSocket, SSE, real-time sync
 - ✅ **42 - gRPC Specialist** - Protocol Buffers, streaming, HTTP/2, inter-service communication
 - ✅ **54 - WebRTC Specialist** - Peer connections, signaling, STUN/TURN, screen sharing, data channels
+- ✅ **62 - Blockchain Integration Expert** - Web3, smart contracts, NFTs, MetaMask, IPFS
+- ✅ **64 - IoT System Designer** - MQTT, device management, telemetry, OTA updates, edge computing
 
 ---
 
@@ -165,24 +170,24 @@ cat frontend/01-css-master/checklist.md
 
 ---
 
-## 🎓 Roadmap (11 agentes pendientes)
+## 🎓 Roadmap (6 agentes pendientes)
 
 Próximos agentes en desarrollo:
-- Blockchain Integration Expert
-- IoT System Designer
-- Email Service Expert
-- SMS Gateway Specialist
-- Payment Gateway Integration
-- Y 6 más...
+- Distributed Tracing Expert
+- Chaos Engineering Specialist
+- GraphQL Federation Expert
+- Contract Testing Expert
+- API Documentation Generator
+- Multi-tenancy Architect
 
 ---
 
 ## 📊 Estadísticas
 
-- **Total agentes:** 64/75 (85.3%)
-- **Total archivos:** 320
+- **Total agentes:** 69/75 (92.0%)
+- **Total archivos:** 345
 - **Categorías:** 14/17
-- **Líneas de código/docs:** ~39,000
+- **Líneas de código/docs:** ~42,000
 
 ---
 
