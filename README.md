@@ -17,7 +17,7 @@ Cada agente incluye:
 
 ---
 
-## 🎯 Agentes Implementados (45/75)
+## 🎯 Agentes Implementados (49/75)
 
 ### Frontend (7)
 - ✅ **01 - CSS Master** - Arquitectura CSS, BEM, performance, dark mode
@@ -28,7 +28,7 @@ Cada agente incluye:
 - ✅ **06 - TypeScript Expert** - Type system, generics, utility types, type guards
 - ✅ **10 - Webpack/Vite Optimizer** - Bundle optimization, code splitting, tree shaking
 
-### Backend (8)
+### Backend (10)
 - ✅ **07 - API Design Expert** - REST, GraphQL, versioning, pagination
 - ✅ **08 - Database Schema Designer** - SQL, NoSQL, normalización, indexing
 - ✅ **09 - SQL Query Optimizer** - EXPLAIN, indexes, N+1 queries, performance
@@ -37,6 +37,8 @@ Cada agente incluye:
 - ✅ **13 - API Gateway Specialist** - Kong, NGINX, rate limiting, authentication
 - ✅ **14 - Serverless Architect** - AWS Lambda, API Gateway, SAM, Step Functions
 - ✅ **15 - Database Migration Specialist** - Flyway, Alembic, zero-downtime, expand-contract
+- ✅ **31 - Event Sourcing Architect** - Event store, projections, CQRS, event replay
+- ✅ **34 - API Versioning Expert** - URL/header versioning, deprecation, backward compatibility
 
 ### Code Quality (7)
 - ✅ **18 - Clean Code Enforcer** - SOLID, DRY, KISS, refactoring patterns
@@ -66,6 +68,10 @@ Cada agente incluye:
 - ✅ **36 - Kubernetes Specialist** - Deployments, Services, Ingress, HPA
 - ✅ **37 - CI/CD Pipeline Designer** - GitHub Actions, GitLab CI, Jenkins
 - ✅ **39 - Monitoring/Observability Specialist** - Prometheus, Grafana, Jaeger, distributed tracing
+
+### Observability (2)
+- ✅ **26 - Metrics & Instrumentation** - Prometheus, StatsD, business metrics, custom instrumentation
+- ✅ **30 - SLO/SLA Monitoring** - SLI definition, error budgets, burn rate alerts, uptime tracking
 
 ### C++ (1)
 - ✅ **39 - Modern C++ Expert** - C++11/14/17/20/23, RAII, smart pointers
@@ -158,10 +164,10 @@ Próximos agentes en desarrollo:
 
 ## 📊 Estadísticas
 
-- **Total agentes:** 45/75 (60.0%)
-- **Total archivos:** 225
-- **Categorías:** 13/17
-- **Líneas de código/docs:** ~25,000
+- **Total agentes:** 49/75 (65.3%)
+- **Total archivos:** 245
+- **Categorías:** 14/17
+- **Líneas de código/docs:** ~27,000
 
 ---
 
