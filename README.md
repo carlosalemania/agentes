@@ -17,7 +17,7 @@ Cada agente incluye:
 
 ---
 
-## 🎯 Agentes Implementados (54/75)
+## 🎯 Agentes Implementados (59/75)
 
 ### Frontend (7)
 - ✅ **01 - CSS Master** - Arquitectura CSS, BEM, performance, dark mode
@@ -28,7 +28,7 @@ Cada agente incluye:
 - ✅ **06 - TypeScript Expert** - Type system, generics, utility types, type guards
 - ✅ **10 - Webpack/Vite Optimizer** - Bundle optimization, code splitting, tree shaking
 
-### Backend (12)
+### Backend (15)
 - ✅ **07 - API Design Expert** - REST, GraphQL, versioning, pagination
 - ✅ **08 - Database Schema Designer** - SQL, NoSQL, normalización, indexing
 - ✅ **09 - SQL Query Optimizer** - EXPLAIN, indexes, N+1 queries, performance
@@ -41,6 +41,9 @@ Cada agente incluye:
 - ✅ **34 - API Versioning Expert** - URL/header versioning, deprecation, backward compatibility
 - ✅ **43 - Batch Processing Expert** - Job scheduling, checkpointing, retry logic, progress tracking
 - ✅ **44 - Cron/Scheduler Expert** - Cron syntax, distributed scheduling, job orchestration, monitoring
+- ✅ **46 - CQRS Pattern Expert** - Command/Query separation, read models, eventual consistency
+- ✅ **48 - Notification System Designer** - Multi-channel notifications, preferences, delivery tracking
+- ✅ **51 - File Upload/Storage Expert** - Cloud storage, direct uploads, image processing, CDN
 
 ### Code Quality (9)
 - ✅ **16 - Code Review Expert** - PR reviews, constructive feedback, security review, quality gates
@@ -63,15 +66,17 @@ Cada agente incluye:
 - ✅ **28 - E2E Test Expert** - Playwright, Cypress, Page Object Model
 - ✅ **29 - Load Testing Expert** - k6, JMeter, Locust, performance benchmarking
 
-### Security (2)
+### Security (3)
 - ✅ **32 - Security Audit Expert** - OWASP Top 10, SQL Injection, XSS, CSRF
 - ✅ **33 - OAuth/JWT Security Expert** - OAuth 2.0, JWT, PKCE, refresh tokens
+- ✅ **47 - Auth Strategy Architect** - Authentication, authorization, RBAC, MFA, session management
 
-### DevOps (4)
+### DevOps (5)
 - ✅ **35 - Docker Container Expert** - Multi-stage builds, image optimization, security
 - ✅ **36 - Kubernetes Specialist** - Deployments, Services, Ingress, HPA
 - ✅ **37 - CI/CD Pipeline Designer** - GitHub Actions, GitLab CI, Jenkins
 - ✅ **39 - Monitoring/Observability Specialist** - Prometheus, Grafana, Jaeger, distributed tracing
+- ✅ **45 - Service Mesh Specialist** - Istio, Linkerd, traffic management, mTLS, observability
 
 ### Observability (2)
 - ✅ **26 - Metrics & Instrumentation** - Prometheus, StatsD, business metrics, custom instrumentation
@@ -155,24 +160,24 @@ cat frontend/01-css-master/checklist.md
 
 ---
 
-## 🎓 Roadmap (21 agentes pendientes)
+## 🎓 Roadmap (16 agentes pendientes)
 
 Próximos agentes en desarrollo:
-- Service Mesh Specialist
-- CQRS Pattern Expert
-- Auth Strategy Architect
-- Notification System Designer
-- File Upload/Storage Expert
-- Y 16 más...
+- Search/Elasticsearch Expert
+- Caching Strategy Architect
+- WebRTC Specialist
+- Blockchain Integration Expert
+- IoT System Designer
+- Y 11 más...
 
 ---
 
 ## 📊 Estadísticas
 
-- **Total agentes:** 54/75 (72.0%)
-- **Total archivos:** 270
+- **Total agentes:** 59/75 (78.7%)
+- **Total archivos:** 295
 - **Categorías:** 14/17
-- **Líneas de código/docs:** ~32,000
+- **Líneas de código/docs:** ~36,000
 
 ---
 
