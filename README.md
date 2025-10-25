@@ -17,7 +17,7 @@ Cada agente incluye:
 
 ---
 
-## 🎯 Agentes Implementados (49/75)
+## 🎯 Agentes Implementados (54/75)
 
 ### Frontend (7)
 - ✅ **01 - CSS Master** - Arquitectura CSS, BEM, performance, dark mode
@@ -28,7 +28,7 @@ Cada agente incluye:
 - ✅ **06 - TypeScript Expert** - Type system, generics, utility types, type guards
 - ✅ **10 - Webpack/Vite Optimizer** - Bundle optimization, code splitting, tree shaking
 
-### Backend (10)
+### Backend (12)
 - ✅ **07 - API Design Expert** - REST, GraphQL, versioning, pagination
 - ✅ **08 - Database Schema Designer** - SQL, NoSQL, normalización, indexing
 - ✅ **09 - SQL Query Optimizer** - EXPLAIN, indexes, N+1 queries, performance
@@ -39,8 +39,12 @@ Cada agente incluye:
 - ✅ **15 - Database Migration Specialist** - Flyway, Alembic, zero-downtime, expand-contract
 - ✅ **31 - Event Sourcing Architect** - Event store, projections, CQRS, event replay
 - ✅ **34 - API Versioning Expert** - URL/header versioning, deprecation, backward compatibility
+- ✅ **43 - Batch Processing Expert** - Job scheduling, checkpointing, retry logic, progress tracking
+- ✅ **44 - Cron/Scheduler Expert** - Cron syntax, distributed scheduling, job orchestration, monitoring
 
-### Code Quality (7)
+### Code Quality (9)
+- ✅ **16 - Code Review Expert** - PR reviews, constructive feedback, security review, quality gates
+- ✅ **17 - Refactoring Specialist** - Code smells, refactoring patterns, legacy modernization, tech debt
 - ✅ **18 - Clean Code Enforcer** - SOLID, DRY, KISS, refactoring patterns
 - ✅ **19 - Error Handling Expert** - Exception handling, error boundaries, retry strategies
 - ✅ **20 - Naming Convention Specialist** - camelCase, PascalCase, conventions
@@ -99,9 +103,10 @@ Cada agente incluye:
 ### Infrastructure (1)
 - ✅ **38 - AWS Cloud Architect** - CloudFormation, EC2, Lambda, VPC, RDS, S3
 
-### Integration (2)
+### Integration (3)
 - ✅ **40 - Message Queue Architect** - RabbitMQ, Kafka, SQS, event-driven patterns
 - ✅ **41 - WebSocket/Real-time Expert** - Socket.IO, WebSocket, SSE, real-time sync
+- ✅ **42 - gRPC Specialist** - Protocol Buffers, streaming, HTTP/2, inter-service communication
 
 ---
 
@@ -150,24 +155,24 @@ cat frontend/01-css-master/checklist.md
 
 ---
 
-## 🎓 Roadmap (30 agentes pendientes)
+## 🎓 Roadmap (21 agentes pendientes)
 
 Próximos agentes en desarrollo:
-- API Versioning Expert
-- Metrics & Instrumentation
 - Service Mesh Specialist
-- Event Sourcing Architect
 - CQRS Pattern Expert
-- Y 25 más...
+- Auth Strategy Architect
+- Notification System Designer
+- File Upload/Storage Expert
+- Y 16 más...
 
 ---
 
 ## 📊 Estadísticas
 
-- **Total agentes:** 49/75 (65.3%)
-- **Total archivos:** 245
+- **Total agentes:** 54/75 (72.0%)
+- **Total archivos:** 270
 - **Categorías:** 14/17
-- **Líneas de código/docs:** ~27,000
+- **Líneas de código/docs:** ~32,000
 
 ---
 
@@ -184,4 +189,4 @@ MIT License - Ver repositorio principal para detalles
 ---
 
 **Versión:** 1.0.0
-**Última actualización:** 2025-01-24
+**Última actualización:** 2025-10-25
